@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41445677323",
+    "firebase_url": "https://licorera-cesde.firebaseio.com",
+    "project_id": "licorera-cesde",
+    "storage_bucket": "licorera-cesde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41445677323:android:0516c8e525fdc113",
+        "android_client_info": {
+          "package_name": "com.example.app_licorera_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41445677323-db02crdt9j5vgk9arf18mnj7cbcuo4p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_licorera_firebase",
+            "certificate_hash": "6ba5a8da91a8f74d2b5e91fa85616c86144de659"
+          }
+        },
+        {
+          "client_id": "41445677323-5b0n8jl7ja8hj44pvlbucaaa8haabqon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Zc3rfKwDdBegAQJ3bD2_zE36g5cL8FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41445677323-5b0n8jl7ja8hj44pvlbucaaa8haabqon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,7 @@
 package com.example.app_licorera_firebase;
 
 public class Model {
+    //Modelo
     private String codProduct;
     private String nombre;
     private String descripcion;

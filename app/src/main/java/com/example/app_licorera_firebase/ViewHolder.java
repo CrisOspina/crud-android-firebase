@@ -10,6 +10,8 @@ public class ViewHolder extends RecyclerView.ViewHolder {
     TextView mNombre, mDescripcion, mPrecio;
     View mView;
 
+    //View Holder
+
 
     public ViewHolder(@NonNull View itemView) {
         super(itemView);

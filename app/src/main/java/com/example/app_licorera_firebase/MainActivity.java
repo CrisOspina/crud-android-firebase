@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
 
     String pId, pNombre, pDescripcion, pPrecio;
 
+    //Actividad principal.
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

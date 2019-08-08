@@ -18,6 +18,8 @@ public class CustomAdapter extends RecyclerView.Adapter<ViewHolder> {
     ListarActivity listarActivity;
     List<Model> modelList;
 
+    //Custom Adapter
+
     public CustomAdapter(ListarActivity listarActivity, List<Model> modelList) {
         this.listarActivity = listarActivity;
         this.modelList = modelList;
@@ -106,3 +108,4 @@ public class CustomAdapter extends RecyclerView.Adapter<ViewHolder> {
         return modelList.size();
     }
 }
+
